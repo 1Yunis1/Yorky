@@ -719,4 +719,12 @@
   id: 82
   time: '2026-09-13T12:10:34Z'
   url: https://github.com/funky-station/forky-station/pull/488
+- author: mycobiota
+  changes:
+  - message: Ghost follow buttons in the chat window will no longer break and start
+      floating sometimes.
+    type: Fix
+  id: 83
+  time: '2026-09-13T17:49:17Z'
+  url: https://github.com/funky-station/forky-station/pull/479
 Order: -1
