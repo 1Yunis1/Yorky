@@ -704,4 +704,11 @@
   id: 80
   time: '2026-09-11T01:28:44Z'
   url: https://github.com/funky-station/forky-station/pull/447
+- author: mkanke
+  changes:
+  - message: Added NDA cabinets to Roid
+    type: Add
+  id: 81
+  time: '2026-09-13T07:40:19Z'
+  url: https://github.com/funky-station/forky-station/pull/482
 Order: -1
