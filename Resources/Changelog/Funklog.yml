@@ -711,4 +711,12 @@
   id: 81
   time: '2026-09-13T07:40:19Z'
   url: https://github.com/funky-station/forky-station/pull/482
+- author: pirakaplant
+  changes:
+  - message: Document prototypes now look for a TXT file, rather than localisation
+      strings.
+    type: Tweak
+  id: 82
+  time: '2026-09-13T12:10:34Z'
+  url: https://github.com/funky-station/forky-station/pull/488
 Order: -1
