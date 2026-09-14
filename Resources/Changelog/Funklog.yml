@@ -727,4 +727,11 @@
   id: 83
   time: '2026-09-13T17:49:17Z'
   url: https://github.com/funky-station/forky-station/pull/479
+- author: Idem778
+  changes:
+  - message: Added pagers to new roles
+    type: Add
+  id: 84
+  time: '2026-09-14T06:22:57Z'
+  url: https://github.com/funky-station/forky-station/pull/471
 Order: -1
