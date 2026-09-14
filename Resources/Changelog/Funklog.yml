@@ -734,4 +734,14 @@
   id: 84
   time: '2026-09-14T06:22:57Z'
   url: https://github.com/funky-station/forky-station/pull/471
+- author: mycobiota, ratsmageddon, mkanke
+  changes:
+  - message: Added Hailing Frequency and its appropriate items
+    type: Add
+  - message: Added PA Speakers to be installed in hallways and departments to broadcast
+      announcements
+    type: Add
+  id: 85
+  time: '2026-09-14T13:41:51Z'
+  url: https://github.com/funky-station/forky-station/pull/286
 Order: -1
