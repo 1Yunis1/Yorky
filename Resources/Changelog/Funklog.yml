@@ -772,4 +772,11 @@
   id: 89
   time: '2026-09-15T12:43:33Z'
   url: https://github.com/funky-station/forky-station/pull/501
+- author: UristMcWiki
+  changes:
+  - message: Fixed the uplink names.
+    type: Fix
+  id: 90
+  time: '2026-09-15T15:58:53Z'
+  url: https://github.com/funky-station/forky-station/pull/268
 Order: -1
