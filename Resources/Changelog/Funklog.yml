@@ -765,4 +765,11 @@
   id: 88
   time: '2026-09-15T05:10:05Z'
   url: https://github.com/funky-station/forky-station/pull/496
+- author: mycobiota
+  changes:
+  - message: Fire axes can pry up hull tiles now.
+    type: Add
+  id: 89
+  time: '2026-09-15T12:43:33Z'
+  url: https://github.com/funky-station/forky-station/pull/501
 Order: -1
