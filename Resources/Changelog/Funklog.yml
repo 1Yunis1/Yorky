@@ -795,4 +795,11 @@
   id: 92
   time: '2026-09-16T15:26:03Z'
   url: https://github.com/funky-station/forky-station/pull/503
+- author: mkanke-real
+  changes:
+  - message: Added security access locked shutters
+    type: Add
+  id: 93
+  time: '2026-09-16T16:29:58Z'
+  url: https://github.com/funky-station/forky-station/pull/478
 Order: -1
