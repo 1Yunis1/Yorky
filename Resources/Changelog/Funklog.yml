@@ -802,4 +802,12 @@
   id: 93
   time: '2026-09-16T16:29:58Z'
   url: https://github.com/funky-station/forky-station/pull/478
+- author: TrixxedHeart
+  changes:
+  - message: Items being given to you can now be instantly accepted by clicking on
+      the offerer.
+    type: Add
+  id: 94
+  time: '2026-09-16T17:28:23Z'
+  url: https://github.com/funky-station/forky-station/pull/506
 Order: -1
