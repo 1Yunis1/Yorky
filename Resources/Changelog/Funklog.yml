@@ -788,4 +788,11 @@
   id: 91
   time: '2026-09-16T01:32:41Z'
   url: https://github.com/funky-station/forky-station/pull/487
+- author: Mirrorcult, WiZ88
+  changes:
+  - message: Ported "Face Direction" button from Ephemeral Space
+    type: Add
+  id: 92
+  time: '2026-09-16T15:26:03Z'
+  url: https://github.com/funky-station/forky-station/pull/503
 Order: -1
