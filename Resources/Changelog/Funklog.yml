@@ -810,4 +810,17 @@
   id: 94
   time: '2026-09-16T17:28:23Z'
   url: https://github.com/funky-station/forky-station/pull/506
+- author: feymild
+  changes:
+  - message: Added the Smoker trait, which causes nicotine addiction and withdrawal
+      symptoms
+    type: Add
+  - message: Added Carcinogen, inhaled when smoking, which builds up to cause long-term
+      effects
+    type: Add
+  - message: Tweaked cancer stages and effects
+    type: Tweak
+  id: 95
+  time: '2026-09-18T19:49:31Z'
+  url: https://github.com/funky-station/forky-station/pull/452
 Order: -1
