@@ -830,4 +830,11 @@
   id: 96
   time: '2026-09-19T19:37:10Z'
   url: https://github.com/funky-station/forky-station/pull/522
+- author: Idem778
+  changes:
+  - message: Added Protest Regulations and Revolt Regulations
+    type: Add
+  id: 97
+  time: '2026-09-20T06:14:41Z'
+  url: https://github.com/funky-station/forky-station/pull/472
 Order: -1
