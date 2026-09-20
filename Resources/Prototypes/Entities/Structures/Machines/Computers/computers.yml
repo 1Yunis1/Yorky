@@ -525,6 +525,7 @@
         showEnts: False
         occludes: True
         ents: []
+      hidden_slot: !type:ContainerSlot # Funky
   - type: AccessReader
     access: [["Command"]]
   - type: Lock

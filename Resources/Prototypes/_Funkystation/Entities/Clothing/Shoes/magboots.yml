@@ -19,6 +19,9 @@
     price: 1750
   - type: ClothingSlowOnDamageModifier
     modifier: 0.5
+  - type: ContainerContainer
+      containers:
+        item: !type:ContainerSlot
   - type: ItemSlots
     slots:
       item:
@@ -33,7 +36,7 @@
     size: Normal
   - type: GasTank
     air:
-      # 2 minutes of thrust 
+      # 2 minutes of thrust
       volume: 0.75
       temperature: 293.15
       moles:
