@@ -845,4 +845,11 @@
   id: 98
   time: '2026-09-20T21:05:52Z'
   url: https://github.com/funky-station/forky-station/pull/108
+- author: mkanke, Tea, [flowersoflethe](https://github.com/flowersoflethe)
+  changes:
+  - message: Added listening bugs and a hidden camera network
+    type: Add
+  id: 99
+  time: '2026-09-20T21:18:08Z'
+  url: https://github.com/funky-station/forky-station/pull/85
 Order: -1
