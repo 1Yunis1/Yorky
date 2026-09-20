@@ -837,4 +837,12 @@
   id: 97
   time: '2026-09-20T06:14:41Z'
   url: https://github.com/funky-station/forky-station/pull/472
+- author: Sigmadraconis
+  changes:
+  - message: Gave ERT a new version of their magboots that have a new sprite and the
+      functionality of Jackboots.
+    type: Tweak
+  id: 98
+  time: '2026-09-20T21:05:52Z'
+  url: https://github.com/funky-station/forky-station/pull/108
 Order: -1
