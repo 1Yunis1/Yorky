@@ -20,8 +20,8 @@
   - type: ClothingSlowOnDamageModifier
     modifier: 0.5
   - type: ContainerContainer
-      containers:
-        item: !type:ContainerSlot
+    containers:
+      item: !type:ContainerSlot
   - type: ItemSlots
     slots:
       item:
