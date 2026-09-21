@@ -852,4 +852,11 @@
   id: 99
   time: '2026-09-20T21:18:08Z'
   url: https://github.com/funky-station/forky-station/pull/85
+- author: Radio-Delta
+  changes:
+  - message: Access Breaker and EMAG are now 6 charges rather than 3.
+    type: Tweak
+  id: 100
+  time: '2026-09-21T18:30:45Z'
+  url: https://github.com/funky-station/forky-station/pull/330
 Order: -1
