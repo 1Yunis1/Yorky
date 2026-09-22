@@ -867,4 +867,11 @@
   id: 101
   time: '2026-09-22T15:34:47Z'
   url: https://github.com/funky-station/forky-station/pull/293
+- author: feymild
+  changes:
+  - message: Gave non-oxygen breathing prisoners gas they need on round start
+    type: Fix
+  id: 102
+  time: '2026-09-22T16:40:17Z'
+  url: https://github.com/funky-station/forky-station/pull/469
 Order: -1
