@@ -859,4 +859,12 @@
   id: 100
   time: '2026-09-21T18:30:45Z'
   url: https://github.com/funky-station/forky-station/pull/330
+- author: mkanke, ratsmageddon, Tea
+  changes:
+  - message: Added Evidence room sign, Evidence bag, and several prefilled evidence
+      containers for mappers
+    type: Add
+  id: 101
+  time: '2026-09-22T15:34:47Z'
+  url: https://github.com/funky-station/forky-station/pull/293
 Order: -1
