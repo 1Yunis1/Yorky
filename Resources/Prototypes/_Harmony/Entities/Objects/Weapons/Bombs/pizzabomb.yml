@@ -3,8 +3,10 @@
   id: Pizzabomb
   suffix: Bomb
   components:
-  - type: Sprite
-    sprite: _Harmony/Objects/Weapons/Bombs/Pizzabomb.rsi
+  - type: EntityStorageVisuals
+    stateBaseClosed: box
+    stateBaseOpen: box-open
+    stateDoorOpen: box-bomb-overlay-active
   - type: TwoStageTrigger # Trigger the sound trigger, delay, then explode
     triggerDelay: 0.5
     components:
