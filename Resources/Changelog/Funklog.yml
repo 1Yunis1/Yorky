@@ -888,4 +888,16 @@
   id: 104
   time: '2026-09-23T08:01:25Z'
   url: https://github.com/funky-station/forky-station/pull/276
+- author: Sere and Frogoo
+  changes:
+  - message: Add Gorilla Crunch, a new gorilla-themed cereal, to hacked ChefVend and
+      as uncommon maints loot.
+    type: Add
+  - message: Recipe for a Gorilla Crunch bowl.
+    type: Add
+  - message: Awesome Gorilla Crunch sprites by Frogoo.
+    type: Add
+  id: 105
+  time: '2026-09-24T04:46:04Z'
+  url: https://github.com/funky-station/forky-station/pull/177
 Order: -1
