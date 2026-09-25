@@ -900,4 +900,11 @@
   id: 105
   time: '2026-09-24T04:46:04Z'
   url: https://github.com/funky-station/forky-station/pull/177
+- author: TheHolyAegis
+  changes:
+  - message: Removed the ability to construct the AI core.
+    type: Remove
+  id: 106
+  time: '2026-09-25T13:25:45Z'
+  url: https://github.com/funky-station/forky-station/pull/494
 Order: -1
